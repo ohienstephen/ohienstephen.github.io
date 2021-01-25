@@ -1,0 +1,43 @@
+{
+    "products": [{
+            "productId": 1,
+            "name": "TutorPoint",
+            "client": "TutorPoint.ng",
+            "services": "Branding, UI/UX Design, Frontend and backend web development",
+            "image1": "images/projects/tutorpoint-display1.png",
+            "image2": "images/projects/tutorpoint-display2.png",
+            "image3": "images/projects/tutorpoint-display3.png",
+            "details": "E-Learning Platform for College Students. Built using Asp.Net Core Web API, C# and Vue CLI. The aim of this project is to give Nigeria students access to online video lectures on their various courses"
+        },
+        {
+            "productId": 2,
+            "name": "Vid-ly",
+            "services": "Frontend and backend web development",
+            "image1": "images/projects/vid-ly-display1.png",
+            "image2": "images/projects/vid-ly-display2.png",
+            "image3": "images/projects/vid-ly-display3.png",
+            "details": "A Mini Youtube Clone built using Vue CLI, Asp.net Core MVC."
+        },
+        {
+            "productId": 3,
+            "name": "Code",
+            "intro": "A Mini StackOverFlow Clone",
+            "services": "Database Design, Front-end design",
+            "image1": "images/projects/code-display1.png",
+            "image2": "images/projects/code-display2.png",
+            "image3": "images/projects/code-display3.png",
+            "details": "Code is a stackoverflow clone built using Vue.js, Python and Django framework"
+        },
+        {
+            "productId": 4,
+            "name": "FirstBorn Assembly",
+            "intro": "A church Management system for RCCG Firstborn Assembly, Auchi, Nigeria",
+            "services": "Branding, UI/UX Design, Full stack web development",
+            "image1": "images/projects/firstborn-display1.png",
+            "image2": "images/projects/firstborn-display2.png",
+            "image3": "images/projects/firstborn-display3.png",
+            "details": "Firstborn Assembly is an RCCG area HQ based in Auchi, Edo State. Some of this app functionality includes <br> - Members/Students Registration, <br> - Audio/Video sermon upload/viewing <br> - Event upload/viewing <br> - Google Auth Login. e.t.c <br><br>This web app was built using Asp.Net Core Razor Pages and C#"
+        }
+    ]
+
+}
